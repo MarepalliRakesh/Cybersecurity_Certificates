@@ -1,2 +1,4 @@
-# Cybersecurity_Certificates
-Certified Ethical Hacker (CEH), ISC2 CC, and LetsDefend SOC Analyst Badges.
+## Certifications:
+**Certified Ethical Hacker (CEH)** - EC-Council
+**ISC2 Certified in Cybersecurity (CC)**
+**LetsDefend SOC Analyst Badges**
