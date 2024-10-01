@@ -43,6 +43,13 @@ This repository showcases the cybersecurity certifications I have earned, demons
 **Verification Link**: https://app.letsdefend.io/my-rewards/detail/db548ee9-01c5-4218-bdef-6a0144113355
 
 ---
+### 5. Google Cybersecurity Professional Certificate
+![Google Cybersecurity Professional Certificate](./Google_Cybersecurity_Certificate.png)
+
+**Awarded by**: Google (via Coursera)  
+**Description**: This certificate demonstrates my completion of the Google Cybersecurity Professional Certificate program, covering essential topics such as Linux, Python, SQL, Security Information and Event Management (SIEM), and Intrusion Detection Systems (IDS). I gained hands-on experience in identifying and mitigating cybersecurity risks and vulnerabilities.  
+**Issued on**: 01-10-2024  
+**Verification Link**: [Google Cybersecurity Professional Certificate](https://coursera.org/verify/professional-cert/PIHMWCDM4QKS)
 
 ## Additional Certifications
 - **Python Elective**: Completed Python elective as part of my cybersecurity training, demonstrating proficiency in scripting and automation for cybersecurity tasks.
